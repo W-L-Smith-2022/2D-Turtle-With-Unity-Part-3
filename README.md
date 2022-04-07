@@ -3,6 +3,7 @@ This project is about using the mouse wheel to zoom in/out in the game view in U
 Link to YouTube video about this project: https://youtu.be/mWD0ehrNvJk <br />
 Link to Unity Documentation: https://docs.unity3d.com/Manual/index.html <br />
 Playlist of YouTube Videos in this Series: https://youtube.com/playlist?list=PLDQ-bcm9sjaU8BaX41JHdLagBaXN5XCiS <br />
+Link to YouTube Channel: https://www.youtube.com/channel/UCOnHMcTYB7Po4chwtugLfyw <br />
 <br />
 ## Information About Other Parts of This Project <br />
 ### 2D-Turtle-With-Unity-Part-1
